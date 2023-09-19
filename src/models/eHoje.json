@@ -1,28 +1,12 @@
 [
     {
         "nome": "Bruno Isnard",
-        "telefone": [ "88888888", "9999999","5555555"],
+        "telefone": "88888888",
+        "endereço": "",
         "cpf": "0000000",
-        "e-mail":"eliseu@.com",
-
-
-        "d-nascimento":"11/11/2023",
-        "t-sangue":"a+",
-        "sexo":"mulher",
-        "ultiDoacao":"12/11/2020",
-
-
-
-        
-        "endereço": {
-            
-            "cep": "000000",
-            "rua":"rua de eliseu",
-            "numero":45 //tipo de dado numero
-            "cidade":"olinda"
-            "estado":"pe"
-        }
-
-
+        "Idade": "11/11/11",
+        "Tipo de sangue": "A+",
+        "Sou doador": "sim ou não",
+        "Ultima doação": "11/11/11",
     }
 ]
