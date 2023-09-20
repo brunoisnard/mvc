@@ -4,8 +4,8 @@ const projetoSchema = new mongoose.Schema(
 
     {
         nome: { type: String, required: true },
-        telefone: { type: Number, required: true },
-        cpf: { type: Number, required: true },
+        telefone: { type: Array, required: true },
+        cpf: { type: String, required: true },
         email: { type: String, required: true },
         datadenascimento: { type: String, required: true },
         tsangue: { type: String, required: true },
